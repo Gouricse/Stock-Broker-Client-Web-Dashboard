@@ -7,7 +7,6 @@
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-10b981?style=for-the-badge)](https://stock-broker-frontend.onrender.com)
 [![Backend API](https://img.shields.io/badge/🔗_Backend_API-Live-3b82f6?style=for-the-badge)](https://stock-broker-client-web-dashboard.onrender.com)
 
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Node](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-19.2-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -251,12 +250,6 @@ cd Frontend && npm run dev
 | **Frontend** | Render | [stock-broker-frontend.onrender.com](https://stock-broker-frontend.onrender.com) |
 | **Backend** | Render | [stock-broker-client-web-dashboard.onrender.com](https://stock-broker-client-web-dashboard.onrender.com) |
 | **Database** | MongoDB Atlas | Cloud Hosted |
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
